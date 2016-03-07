@@ -9,3 +9,4 @@ https://github.com/bsikander/ADF-Hama
 - Results and plots created during the thesis are also part of this repo.
 - Most of PDFs collected during the thesis are also uploaded.
 - draw.io was used to create diagrams. All the XML files for those diagrams has also been uploaded here.
+- All the VMs were configured on LRZ under account ga93joc2. -> https://www.cloud.mwn.de/
