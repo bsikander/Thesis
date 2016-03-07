@@ -7,3 +7,5 @@ https://github.com/bsikander/ADF-Hama
 
 - Final presentation and Latex Thesis code is part of this repository.
 - Results and plots created during the thesis are also part of this repo.
+- Most of PDFs collected during the thesis are also uploaded.
+- draw.io was used to create diagrams. All the XML files for those diagrams has also been uploaded here.
